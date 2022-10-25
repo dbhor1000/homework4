@@ -3,7 +3,7 @@ public class Main {
 
         ///Task 1
 
-        int age = 23;
+        int age = 24;
         if(age >= 18){
         System.out.println("Поздравляю с совершеннолетием!");}
         if(age < 18){
